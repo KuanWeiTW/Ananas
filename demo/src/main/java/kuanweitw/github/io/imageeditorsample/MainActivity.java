@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void editImageClick() {
         File outputFile = FileUtils.genEditFile();
         try {
-            Intent intent = new ImageEditorIntentBuilder(this, Uri.fromFile(new File(path)), Uri.fromFile(new File(path)))
+            Intent intent = new ImageEditorIntentBuilder(this, Uri.fromFile(new File(path)), Uri.fromFile(new File(outputFile.getAbsolutePath())))
                     .withAddText()
                     .withPaintFeature()
                     .withFilterFeature()
