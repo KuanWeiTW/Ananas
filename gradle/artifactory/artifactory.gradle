@@ -1,6 +1,6 @@
 ext {
     artifactName = 'ananas'
-    artifactGroupId = 'com.github.iamutkarshtiwari'
+    artifactGroupId = 'com.github.kuanweitw'
 }
 
 ext.submitVersion = {
@@ -15,20 +15,20 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'Ananas'
 
-    publishedGroupId = 'com.github.iamutkarshtiwari'
+    publishedGroupId = 'com.github.kuanweitw'
     libraryName = 'Ananas'
     artifact = 'ananas'
 
     libraryDescription = 'An easy to use image editor library'
 
-    siteUrl = 'https://github.com/iamutkarshtiwari/Ananas'
-    gitUrl = 'git@github.com:iamutkarshtiwari/Ananas.git'
+    siteUrl = 'https://github.com/kuanweitw/Ananas'
+    gitUrl = 'git@github.com:kuanweitw/Ananas.git'
 
     libraryVersion = versionName()
 
-    developerId = 'iamutkarshtiwari'
+    developerId = 'kuanweitw'
     developerName = 'Utkarsh Tiwari'
-    developerEmail = 'iamutkarshtiwari@gmail.com'
+    developerEmail = 'kuanweitw@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'

@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("io.github.iamutkarshtiwari.ananasproject", appContext.getPackageName());
+        assertEquals("io.github.kuanweitw.ananasproject", appContext.getPackageName());
     }
 }

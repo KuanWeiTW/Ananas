@@ -2,7 +2,7 @@
 
 # Ananas Photo Editor
 
-[![Download](https://img.shields.io/badge/JitPack-1.2.4-blue.svg)](https://jitpack.io/#iamutkarshtiwari/Ananas/1.2.4) ![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg)
+[![Download](https://img.shields.io/badge/JitPack-1.2.4-blue.svg)](https://jitpack.io/#kuanweitw/Ananas/1.2.4) ![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg)
 
 An easy photo editor integration for your Android apps.
 
@@ -63,7 +63,7 @@ Add it in your root build.gradle at the end of repositories:
 
 Add the dependency in gradle file of app module like this
 ```
-implementation 'com.github.iamutkarshtiwari:Ananas:1.2.4'
+implementation 'com.github.kuanweitw:Ananas:1.2.4'
 ```
 
 ## [Important!]
@@ -164,7 +164,7 @@ Happy coding! :)
 ## Questions?🤔
 Hit me on twitter
 [![Twitter](https://img.shields.io/badge/Twitter-%40iamutkarsht-blue.svg)](https://twitter.com/iamutkarsht)
-[![Facebook](https://img.shields.io/badge/Facebook-Utkarsh%20Tiwari-blue.svg)](https://www.facebook.com/iamutkarshtiwari)
+[![Facebook](https://img.shields.io/badge/Facebook-Utkarsh%20Tiwari-blue.svg)](https://www.facebook.com/kuanweitw)
 
 ## How to submit a valid issue
 - **Make sure you compiled the latest version.** If it still doesn't work out, don't hesitate to open a new issue.

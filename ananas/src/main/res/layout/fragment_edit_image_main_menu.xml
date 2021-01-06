@@ -33,7 +33,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_edit"
+                    android:text="@string/kuanweitw_github_io_ananas_edit"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -56,7 +56,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_filter"
+                    android:text="@string/kuanweitw_github_io_ananas_filter"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -80,7 +80,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_crop"
+                    android:text="@string/kuanweitw_github_io_ananas_crop"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -104,7 +104,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_rotate"
+                    android:text="@string/kuanweitw_github_io_ananas_rotate"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -128,7 +128,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_text"
+                    android:text="@string/kuanweitw_github_io_ananas_text"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -152,7 +152,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_stickers"
+                    android:text="@string/kuanweitw_github_io_ananas_stickers"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -176,7 +176,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_brightness"
+                    android:text="@string/kuanweitw_github_io_ananas_brightness"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -200,7 +200,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_saturation"
+                    android:text="@string/kuanweitw_github_io_ananas_saturation"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />
@@ -224,7 +224,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:gravity="center"
-                    android:text="@string/iamutkarshtiwari_github_io_ananas_beauty"
+                    android:text="@string/kuanweitw_github_io_ananas_beauty"
                     android:textColor="@color/text_color"
                     android:textSize="@dimen/image_edit_text_size"
                     tool:text="Text" />

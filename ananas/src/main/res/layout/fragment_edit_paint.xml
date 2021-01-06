@@ -29,7 +29,7 @@
 
             <TextView
                 style="@style/option_text_style"
-                android:text="@string/iamutkarshtiwari_github_io_ananas_brush" />
+                android:text="@string/kuanweitw_github_io_ananas_brush" />
         </LinearLayout>
 
         <LinearLayout
@@ -44,7 +44,7 @@
 
             <TextView
                 style="@style/option_text_style"
-                android:text="@string/iamutkarshtiwari_github_io_ananas_eraser" />
+                android:text="@string/kuanweitw_github_io_ananas_eraser" />
         </LinearLayout>
 
     </LinearLayout>

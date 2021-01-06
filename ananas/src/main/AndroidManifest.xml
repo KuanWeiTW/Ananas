@@ -5,7 +5,7 @@
     <application>
         <activity
             android:name="kuanweitw.github.io.ananas.editimage.EditImageActivity"
-            android:label="@string/iamutkarshtiwari_github_io_ananas_library_name"
+            android:label="@string/kuanweitw_github_io_ananas_library_name"
             android:exported="true" />
 
         <activity android:name="kuanweitw.github.io.ananas.picchooser.SelectPictureActivity" />
